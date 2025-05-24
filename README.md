@@ -31,7 +31,7 @@ Soy un desarrollador **Fullstack** con experiencia en tecnologías modernas tant
 
 ### 🔧 TFG - Trabajo Final de Grado
 > Proyecto desarrollado como parte final del ciclo DAM.  
-> [[🔗 Enlace al repositorio](https://github.com/FranMarin123/TFG_DAM)](PON_AQUÍ_EL_ENLACE_DEL_TFG)
+> [[🔗 Enlace al repositorio](https://github.com/FranMarin123/TFG_DAM)]
 
 ## 📫 Cómo contactarme
 
